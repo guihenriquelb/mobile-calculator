@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Calculadora Android é uma aplicação mobile(Android) desenvolvida para estudo.
+Calculadora Android é uma aplicação mobile desenvolvida para estudo.
 
 A aplicação consiste em realizar operações padrões de uma calculadora.
 
