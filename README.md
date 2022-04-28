@@ -15,7 +15,7 @@ A aplicação consiste em realizar operações padrões de uma calculadora.
 - Java
 
 ## Front end
-- XML
+
 
 # Instalação no Android Studio
 
