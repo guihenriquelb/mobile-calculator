@@ -10,13 +10,6 @@ A aplicação consiste em realizar operações padrões de uma calculadora.
 ## Layout mobile
 ![Mobile 1](https://i.imgur.com/ySfrWW8.png) ![Mobile 2](https://i.imgur.com/k2mrSuw.png)
 
-# Tecnologias utilizadas
-## Back end
-- Java
-
-## Front end
-
-
 # Instalação no Android Studio
 
 ```bash
